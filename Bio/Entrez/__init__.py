@@ -116,8 +116,6 @@ Functions:
           >>> for record in records:
           ...     # each record is a Python dictionary or list.
           ...     print(record['Title'])
-          Biopython: freely available Python tools for computational molecular biology and bioinformatics.
-          PDB file parser and structure class implemented in Python.
           >>> handle.close()
 
       This function is appropriate only if the XML file contains
